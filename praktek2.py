@@ -1,0 +1,9 @@
+nim = 26241009
+digit_1 = 2
+digit_2 = 6
+digit_3 = 2
+digit_4 = 4
+digit_5 = 1
+digit_6 = 0
+digit_7 = 0
+digit_8 = 9
